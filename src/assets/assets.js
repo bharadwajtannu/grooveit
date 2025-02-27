@@ -117,18 +117,18 @@ export const albumsData = [
 export const songsData = [
     {
         id:0,
-        name: "Song One",
+        name: "DIL TU JAAN TU",
         image: img1,
         file:song1,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"DARD DI DAWA TU ",
         duration:"3:00"
     },
     {
         id:1,
-        name: "Song Two",
+        name: "YE TUNE KYA KIYA",
         image: img2,
         file:song2,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"MUJHE TO RAAZI LAGTI HAI",
         duration:"2:20"
     },
     {
